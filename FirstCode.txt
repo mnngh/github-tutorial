@@ -1,1 +1,5 @@
 hello world!!!
+take input from the user and add the values
+git diff command shows the changes in the file
+// delete a file
+
